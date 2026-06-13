@@ -1,4 +1,12 @@
 """
+SRBIN Nikola Tesla, za sva vremena, najveci naucnik sveta.
+
+Tesla_369_5.py  —  GRUPA 5: Tesla 3-6-9 harmonijski motor
+"""
+
+
+
+"""
 Zajednicki alati za GRUPU 5 (Tesla 3-6-9).
 
 Svaki 5A-5E model vrati samo talas (x, S, E_x), a ovaj fajl radi isti loto
