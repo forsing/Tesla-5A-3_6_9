@@ -1,4 +1,12 @@
 """
+SRBIN Nikola Tesla, za sva vremena, najveci naucnik sveta.
+
+Tesla_369_5.py  —  GRUPA 5: Tesla 3-6-9 harmonijski motor
+"""
+
+
+
+"""
 Tesla 5A - 3-6-9 slojeviti motor.
 """
 
@@ -68,24 +76,24 @@ max S: 1.0000000000 | max |E_x|: 833.1798664130
 
 Brojevi po kombinovanom skoru (tezinski talas + frekvencija):
   26  skor=0.8905679844  freq=0.02680  (pojava=869)
-  37  skor=0.7795802909  freq=0.02652  (pojava=860)
+   x  skor=0.7795802909  freq=0.02652  (pojava=860)
   30  skor=0.7434482759  freq=0.02427  (pojava=787)
-  35  skor=0.7167527233  freq=0.02600  (pojava=843)
+   y  skor=0.7167527233  freq=0.02600  (pojava=843)
   08  skor=0.7045280839  freq=0.02810  (pojava=911)
   09  skor=0.6907922540  freq=0.02600  (pojava=843)
-  14  skor=0.6873840795  freq=0.02495  (pojava=809)
+   z  skor=0.6873840795  freq=0.02495  (pojava=809)
   12  skor=0.6741448556  freq=0.02498  (pojava=810)
-  39  skor=0.6499690947  freq=0.02618  (pojava=849)
+   x  skor=0.6499690947  freq=0.02618  (pojava=849)
   13  skor=0.6330816750  freq=0.02554  (pojava=828)
-  21  skor=0.6147049284  freq=0.02551  (pojava=827)
+   y  skor=0.6147049284  freq=0.02551  (pojava=827)
   05  skor=0.5902007561  freq=0.02554  (pojava=828)
-  31  skor=0.5868830135  freq=0.02560  (pojava=830)
+   z  skor=0.5868830135  freq=0.02560  (pojava=830)
   36  skor=0.5822771181  freq=0.02424  (pojava=786)
-  38  skor=0.5822156666  freq=0.02597  (pojava=842)
+   x  skor=0.5822156666  freq=0.02597  (pojava=842)
   27  skor=0.5747693907  freq=0.02433  (pojava=789)
-  11  skor=0.5630028165  freq=0.02655  (pojava=861)
+   y  skor=0.5630028165  freq=0.02655  (pojava=861)
   28  skor=0.5600765700  freq=0.02532  (pojava=821)
-  23  skor=0.5563248502  freq=0.02791  (pojava=905)
+   z  skor=0.5563248502  freq=0.02791  (pojava=905)
   18  skor=0.5499748433  freq=0.02532  (pojava=821)
   22  skor=0.5209706360  freq=0.02625  (pojava=851)
   04  skor=0.5091736684  freq=0.02504  (pojava=812)
@@ -108,16 +116,16 @@ Brojevi po kombinovanom skoru (tezinski talas + frekvencija):
   07  skor=0.1613793103  freq=0.02603  (pojava=844)
 
 Predlozene kombinacije (rangirane po skoru kombinacije):
-  01. 04 05 11 23 27 30 37  skor_komb=4.3165000486
-  02. 08 14 16 22 26 31 32  skor_komb=4.2768386493
-  03. 08 13 15 26 27 31 33  skor_komb=4.2101494128
-  04. 05 11 12 18 32 35 39  skor_komb=4.1725339750
-  05. 09 10 19 22 27 31 38  skor_komb=3.9268399029
-  06. 07 10 13 21 29 30 39  skor_komb=3.8005611002
-  07. 16 18 20 24 28 37 39  skor_komb=3.6452658414
-  08. 02 11 20 23 31 33 39  skor_komb=3.6255980157
-  09. 01 05 09 13 20 34 39  skor_komb=3.5371816969
-  10. 07 08 13 21 23 25 32  skor_komb=3.5208363655
+  01. 04 x 11 y 27 z 37  skor_komb=4.3165000486
+  02. 08 x 16 y 26 z 32  skor_komb=4.2768386493
+  03. 08 x 15 y 27 z 33  skor_komb=4.2101494128
+  04. 05 x 12 y 32 z 39  skor_komb=4.1725339750
+  05. 09 x 19 y 27 z 38  skor_komb=3.9268399029
+  06. 07 x 13 y 29 z 39  skor_komb=3.8005611002
+  07. 16 x 20 y 28 z 39  skor_komb=3.6452658414
+  08. 02 x 20 y 31 z 39  skor_komb=3.6255980157
+  09. 01 x 09 y 20 z 39  skor_komb=3.5371816969
+  10. 07 x 13 y 23 z 32  skor_komb=3.5208363655
 
 Sacuvano: /Tesla/tesla_369_5A.txt
 """
